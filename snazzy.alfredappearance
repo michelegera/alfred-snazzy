@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 6,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#9CECFCFF",
+        "font" : "System Light",
+        "color" : "#F0F0F07F"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#61F491FF",
+        "font" : "System Light",
+        "color" : "#61F491FF"
+      },
+      "backgroundSelected" : "#282A3600",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#5BC7FCFF",
+        "font" : "System Light",
+        "color" : "#F0F0F0FF"
+      },
+      "iconPaddingHorizontal" : 8,
+      "paddingVertical" : 8,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#31334200",
+      "spacing" : 12,
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#F3F7A0FF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#282A36BF",
+      "paddingHorizontal" : 8,
+      "width" : 560,
+      "borderPadding" : 0,
+      "borderColor" : "#282A36FF",
+      "blur" : 30,
+      "roundness" : 4,
+      "paddingVertical" : 8
+    },
+    "credit" : "Michele Gerarduzzi",
+    "separator" : {
+      "color" : "#1F2041FF",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#313342FF",
+      "thickness" : 4
+    },
+    "name" : "Snazzy"
+  }
+}
