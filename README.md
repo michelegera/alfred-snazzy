@@ -4,20 +4,20 @@
 
 ![](screenshot.png)
 
-
 ## Install
 
-*You need the [Powerpack](https://www.alfredapp.com/powerpack/) for custom themes*.
+_You need the [Powerpack](https://www.alfredapp.com/powerpack/) for custom themes_.
 
-[Install the theme](https://www.alfredapp.com/extras/theme/yZODAdxN8T/).
-
+1. [Download](https://github.com/michelegera/alfred-snazzy/archive/refs/heads/master.zip) the latest version (ZIP file)
+2. Unzip it
+3. Double-click on `snazzy.alfredappearance`
+4. Choose `Import`
 
 ## Options
 
 Use the following options to have it look exactly like in the screenshot above.
 
 ![](options.png)
-
 
 ## Related
 
